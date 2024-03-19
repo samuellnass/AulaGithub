@@ -1,2 +1,2 @@
 # AulaGithub
-repositório para material sobre a displina Tópicos essenciais
+repositório para material sobre a disciplina Tópicos essenciais
